@@ -1,0 +1,3 @@
+[console_scripts]
+mpub = my_pkg.simple_message_pub:main
+

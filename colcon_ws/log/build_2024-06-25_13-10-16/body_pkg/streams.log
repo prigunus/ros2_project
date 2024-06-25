@@ -1,0 +1,24 @@
+[1.298s] Invoking command in '/home/kcm/ros_project/colcon_ws/src/body_pkg': PYTHONPATH=/home/kcm/ros_project/colcon_ws/build/body_pkg/prefix_override:/home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/body_pkg build --build-base /home/kcm/ros_project/colcon_ws/build/body_pkg/build install --record /home/kcm/ros_project/colcon_ws/build/body_pkg/install.log --single-version-externally-managed install_data
+[1.632s] running egg_info
+[1.633s] writing ../../build/body_pkg/body_pkg.egg-info/PKG-INFO
+[1.637s] writing dependency_links to ../../build/body_pkg/body_pkg.egg-info/dependency_links.txt
+[1.638s] writing entry points to ../../build/body_pkg/body_pkg.egg-info/entry_points.txt
+[1.638s] writing requirements to ../../build/body_pkg/body_pkg.egg-info/requires.txt
+[1.639s] writing top-level names to ../../build/body_pkg/body_pkg.egg-info/top_level.txt
+[1.639s] reading manifest file '../../build/body_pkg/body_pkg.egg-info/SOURCES.txt'
+[1.641s] writing manifest file '../../build/body_pkg/body_pkg.egg-info/SOURCES.txt'
+[1.641s] running build
+[1.642s] running build_py
+[1.642s] copying body_pkg/body_up.py -> /home/kcm/ros_project/colcon_ws/build/body_pkg/build/lib/body_pkg
+[1.643s] running install
+[1.644s] running install_lib
+[1.645s] copying /home/kcm/ros_project/colcon_ws/build/body_pkg/build/lib/body_pkg/body_up.py -> /home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages/body_pkg
+[1.645s] byte-compiling /home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages/body_pkg/body_up.py to body_up.cpython-310.pyc
+[1.646s] running install_data
+[1.646s] running install_egg_info
+[1.650s] removing '/home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages/body_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.657s] Copying ../../build/body_pkg/body_pkg.egg-info to /home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages/body_pkg-0.0.0-py3.10.egg-info
+[1.658s] running install_scripts
+[1.689s] Installing body1 script to /home/kcm/ros_project/colcon_ws/install/body_pkg/lib/body_pkg
+[1.690s] writing list of installed files to '/home/kcm/ros_project/colcon_ws/build/body_pkg/install.log'
+[1.722s] Invoked command in '/home/kcm/ros_project/colcon_ws/src/body_pkg' returned '0': PYTHONPATH=/home/kcm/ros_project/colcon_ws/build/body_pkg/prefix_override:/home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/body_pkg build --build-base /home/kcm/ros_project/colcon_ws/build/body_pkg/build install --record /home/kcm/ros_project/colcon_ws/build/body_pkg/install.log --single-version-externally-managed install_data

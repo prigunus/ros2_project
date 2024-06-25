@@ -1,0 +1,37 @@
+[1.320s] Invoking command in '/home/kcm/ros_project/colcon_ws/src/body_pkg': PYTHONPATH=/home/kcm/ros_project/colcon_ws/build/body_pkg/prefix_override:/home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/body_pkg build --build-base /home/kcm/ros_project/colcon_ws/build/body_pkg/build install --record /home/kcm/ros_project/colcon_ws/build/body_pkg/install.log --single-version-externally-managed install_data
+[1.666s] running egg_info
+[1.668s] creating ../../build/body_pkg/body_pkg.egg-info
+[1.670s] writing ../../build/body_pkg/body_pkg.egg-info/PKG-INFO
+[1.670s] writing dependency_links to ../../build/body_pkg/body_pkg.egg-info/dependency_links.txt
+[1.670s] writing entry points to ../../build/body_pkg/body_pkg.egg-info/entry_points.txt
+[1.670s] writing requirements to ../../build/body_pkg/body_pkg.egg-info/requires.txt
+[1.670s] writing top-level names to ../../build/body_pkg/body_pkg.egg-info/top_level.txt
+[1.670s] writing manifest file '../../build/body_pkg/body_pkg.egg-info/SOURCES.txt'
+[1.673s] reading manifest file '../../build/body_pkg/body_pkg.egg-info/SOURCES.txt'
+[1.675s] writing manifest file '../../build/body_pkg/body_pkg.egg-info/SOURCES.txt'
+[1.676s] running build
+[1.676s] running build_py
+[1.677s] creating /home/kcm/ros_project/colcon_ws/build/body_pkg/build
+[1.677s] creating /home/kcm/ros_project/colcon_ws/build/body_pkg/build/lib
+[1.677s] creating /home/kcm/ros_project/colcon_ws/build/body_pkg/build/lib/body_pkg
+[1.678s] copying body_pkg/body_up.py -> /home/kcm/ros_project/colcon_ws/build/body_pkg/build/lib/body_pkg
+[1.678s] copying body_pkg/__init__.py -> /home/kcm/ros_project/colcon_ws/build/body_pkg/build/lib/body_pkg
+[1.678s] running install
+[1.678s] running install_lib
+[1.680s] creating /home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages/body_pkg
+[1.681s] copying /home/kcm/ros_project/colcon_ws/build/body_pkg/build/lib/body_pkg/body_up.py -> /home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages/body_pkg
+[1.681s] copying /home/kcm/ros_project/colcon_ws/build/body_pkg/build/lib/body_pkg/__init__.py -> /home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages/body_pkg
+[1.682s] byte-compiling /home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages/body_pkg/body_up.py to body_up.cpython-310.pyc
+[1.683s] byte-compiling /home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages/body_pkg/__init__.py to __init__.cpython-310.pyc
+[1.684s] running install_data
+[1.684s] creating /home/kcm/ros_project/colcon_ws/install/body_pkg/share/ament_index
+[1.684s] creating /home/kcm/ros_project/colcon_ws/install/body_pkg/share/ament_index/resource_index
+[1.684s] creating /home/kcm/ros_project/colcon_ws/install/body_pkg/share/ament_index/resource_index/packages
+[1.685s] copying resource/body_pkg -> /home/kcm/ros_project/colcon_ws/install/body_pkg/share/ament_index/resource_index/packages
+[1.685s] copying package.xml -> /home/kcm/ros_project/colcon_ws/install/body_pkg/share/body_pkg
+[1.686s] running install_egg_info
+[1.689s] Copying ../../build/body_pkg/body_pkg.egg-info to /home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages/body_pkg-0.0.0-py3.10.egg-info
+[1.690s] running install_scripts
+[1.729s] Installing body1 script to /home/kcm/ros_project/colcon_ws/install/body_pkg/lib/body_pkg
+[1.729s] writing list of installed files to '/home/kcm/ros_project/colcon_ws/build/body_pkg/install.log'
+[1.766s] Invoked command in '/home/kcm/ros_project/colcon_ws/src/body_pkg' returned '0': PYTHONPATH=/home/kcm/ros_project/colcon_ws/build/body_pkg/prefix_override:/home/kcm/ros_project/colcon_ws/install/body_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/body_pkg build --build-base /home/kcm/ros_project/colcon_ws/build/body_pkg/build install --record /home/kcm/ros_project/colcon_ws/build/body_pkg/install.log --single-version-externally-managed install_data

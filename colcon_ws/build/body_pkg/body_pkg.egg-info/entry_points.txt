@@ -1,0 +1,3 @@
+[console_scripts]
+body1 = body_pkg.body_up:main
+
