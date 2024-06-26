@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'mpub = my_pkg.simple_message_pub:main'
+            'mpub = my_pkg.simple_message_pub:main',
+            'msub = my_pkg.simple_message_sub:main'
         ],
     },
 )
